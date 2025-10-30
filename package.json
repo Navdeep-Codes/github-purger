@@ -9,6 +9,7 @@
   "dependencies": {
     "axios": "^1.7.2",
     "chalk": "^5.3.0",
+    "figlet": "^1.9.3",
     "inquirer": "^9.2.16",
     "ora": "^8.0.1"
   }

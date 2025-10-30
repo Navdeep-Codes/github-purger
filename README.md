@@ -1,5 +1,5 @@
 # The Github Purging Tool
-A CLI tool to get rid of old, unused, or just mass delete your repos.
+A CLI tool to get rid of old, unused, or just mass deleting your repos.
 ---
 [REDACTED:github-fine-grained-pat]
 ## Usage
@@ -30,6 +30,7 @@ github-purger
 Leaking your PAT token can be dangerous. Make sure to keep it secure and never share it with anyone.
 Also, be **very** cautious while deleting repositories as this action is irreversible.
 
-Using leaked PAT tokens and deleating someones repos, is **NOT** legal. Use this tool responsibly.
+Using leaked PAT tokens and deleting someones repos, is **NOT** legal. Use this tool responsibly.
+
 ---
 A 404navdeep Production
