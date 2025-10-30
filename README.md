@@ -21,7 +21,7 @@ npm link
 ```bash
 github-purger
 ```
-### Follow he prompts
+### Follow the prompts
 ### Enjoy purging your repositories!
 
 ---
